@@ -42,6 +42,7 @@ ypred = m*x+b
 print(ypred)
 
 
+
 plt.scatter(x,y,color='Red')
 plt.plot(x,ypred,color='Blue')
 plt.show()
